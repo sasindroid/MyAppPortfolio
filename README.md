@@ -1,6 +1,5 @@
 #MyAppPortfolio#
-My First Udacity Project for Android NanoDegree. This Project has a couple of place holders for Udacity android Nano degree projects.
-At the end of the Nano degree, all the Projects can be accessed from this single app.
+My First Udacity Project for Android NanoDegree. This Project has a couple of place holders for Udacity android Nano degree projects. At the end of the Nano degree, all the Projects can be accessed from this single app.
 
 ###Installation###
 
